@@ -1,0 +1,71 @@
+.guitar{
+   background-size: 100% 100%;
+   width: 45rem;
+   margin-left: 30px;
+}
+.guitar-wires{
+    height: 3px;
+    width: 8.5rem;
+    margin-left: 10.5rem;
+}
+.guitar-wire-1{
+    margin-top:94px;
+}
+.guitar-wire-2{
+    margin-top:100px;
+}
+.guitar-wire-3{
+    margin-top:106px;
+}
+.guitar-wire-4{
+   margin-top:112px;
+}
+.guitar-wire-5{
+    margin-top:118px;
+}
+.guitar-wire-6{
+    margin-top:124px;
+}
+
+/* xylo css */
+.xylo{
+    width: 2.65rem;
+}
+.xylo:hover{
+    background-color: #0000FF99;
+}
+
+/* Drum CSS*/
+.circle1{
+    height: 3rem;
+    width: 18rem;
+    border-radius: 90%;
+    margin-left: 15px;
+    position: absolute;
+    margin-top: 10px;
+}
+.circle2{
+    height: 4rem;
+    width: 20.5rem;
+    border-radius: 90%;
+    margin-left: 23.5rem;
+    position: absolute;
+    margin-top: 4px;
+    transform: rotate(2.7deg);
+}
+.circle2:hover, .circle1:hover{
+    background-color: #0000FF61;
+}
+
+/**/
+.flute{
+    height: 15.8rem;
+}
+.flute-pipe{
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+}
+.flute-pipe:hover{
+    background-color: #80808099;
+}
